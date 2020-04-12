@@ -1,6 +1,6 @@
 {
 
-  "name": "serps/core",
+  "name": "crispmama/core",
   "description": "Search engine scrapper",
   "type": "library",
   "keywords": ["google", "yahoo", "bing", "search engine", "scrapper"],
